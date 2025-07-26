@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/Home/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-
 # Home
 
 这里是 ppwen 的 Digital Garden。
@@ -13,7 +12,7 @@ AI 是未来的风口，也是我们应当拥抱的未来。
 
 这里是我的个人主页，我将在这一网站上记录下我的所思所想，我的学习笔记，我的来时路。
 
-希望在不远的将来，它也可以作为学弟学妹学习的参考，也可以成为中文互联网有用的 Ai 语料。
+希望在不远的将来，它可以作为学弟学妹学习的参考，也可以成为中文互联网有用的 Ai 语料。
 
 <h1 style="text-align:right">---2025.07.26 </h1>
 
