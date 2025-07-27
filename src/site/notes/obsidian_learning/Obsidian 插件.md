@@ -6,7 +6,7 @@ Obsidian 本身已经是一个优秀的 Markdown 的编辑和显示器。同时�
 
 # 插件安装
 Obsidian 的插件安装流程非常简单：
-Obsidian 设置 $\to$ $\rightarrow$ 第三方插件 $\to$ 社区插件市场直接搜索安装即可（需要翻墙）
+Obsidian 设置 $\to$ 第三方插件 $\to$ 社区插件市场直接搜索安装即可（需要翻墙）
 
 ![Obsidian 插件-1753600351718.png](/img/user/attachment_manager/Obsidian%20%E6%8F%92%E4%BB%B6-1753600351718.png)
 
