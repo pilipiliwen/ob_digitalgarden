@@ -38,8 +38,8 @@
 	方括号[].里写链接内容 小括号().里写链接地址
 
 - 内部链接
-	[[Verilog/VerilogHDL and FPGA Design/Lecture 1 基于Verilog的数字系统设计自动化#1.1.1 设计输入\|Lecture 1 基于Verilog的数字系统设计自动化#1.1.1 设计输入]] 
-	[[Verilog/VerilogHDL and FPGA Design/Lecture 1 基于Verilog的数字系统设计自动化#^925364\|Lecture 1 基于Verilog的数字系统设计自动化#^925364]]
+	[[本科课程/大三下/Verilog/VerilogHDL and FPGA Design/Lecture 1 基于Verilog的数字系统设计自动化#1.1.1 设计输入\|Lecture 1 基于Verilog的数字系统设计自动化#1.1.1 设计输入]] 
+	[[本科课程/大三下/Verilog/VerilogHDL and FPGA Design/Lecture 1 基于Verilog的数字系统设计自动化#^925364\|Lecture 1 基于Verilog的数字系统设计自动化#^925364]]
 	双方括号[[]]
 
 ## 其它语法
