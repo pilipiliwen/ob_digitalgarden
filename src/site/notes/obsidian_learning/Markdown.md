@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian_learning/Markdown/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/obsidian_learning/Markdown/"}
 ---
 
 # markdown语法
@@ -63,7 +63,7 @@ sys
 ```
 
 $数学 a=b+c/x$
-[[obsidian_learning/LaTex参考手册\|LaTex参考手册]]
+[[obsidian_learning/LaTex 参考手册\|LaTex 参考手册]]
 $$
 数学块 a = b + c
 $$
